@@ -34,7 +34,7 @@ The informative and diverse pool-based sampling is based on https://github.com/g
 
 Rebecca Adaimi and Edison Thomaz. 2019. Leveraging Active Learning and Conditional Mutual Information to Minimize Data Annotation in Human Activity Recognition. <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</i> 3, 3, Article 70 (September 2019), 23 pages.
 
-[Download paper here](https://sites.google.com/view/rebecca-adaimi/active-learning?authuser=0)
+[Download paper here](https://www.rebeccaadaimi.com/publications/al/)
 
 Bibtex Reference:
 ```
